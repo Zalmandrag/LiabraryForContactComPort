@@ -1,4 +1,4 @@
-To connect to your project this liabraryyou need:
+To connect to your project this liabrary you need:
 1) Download latest realese
 2) Unpack realese
 3) configure external dependencies on the .lib file that is in the release folder
